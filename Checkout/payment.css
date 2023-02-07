@@ -1,0 +1,44 @@
+.maindiv{
+                
+    border-top: 40px;
+    border-left: 200px;
+    border-right: 200px;
+    margin-bottom: 80px;
+    border-color: white;
+    border-style: solid;
+    text-align: center;
+  
+    background-color:   aquamarine;
+}
+
+.header{
+    font-size:  1.3cm;
+    text-align: center;
+}
+.tikimage{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+    background: aquamarine;
+    border-radius:80% 
+}
+.links{
+    text-align: center;
+    
+   
+}
+
+.form-body{
+    width: 10cm;
+    background-color:whitesmoke;
+    text-align: left;
+    margin-left: 5cm;
+    
+
+}
+.card-number{
+    width: 7cm;
+    
+}
