@@ -1,0 +1,56 @@
+ .buttons{
+    padding-left: 100px;
+}
+.view{
+    ;
+}.form{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: px;padding-top: 100px;
+
+}
+.addproducts{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 30px;
+}
+.vieworders{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 30px;
+    
+}
+.form input{
+    margin-left: 30px;
+}
+.form button{
+    width: 200px;
+    height: 40px;
+    background-color: orange;
+    font-size: 25px;
+    margin-left: 30px;
+    border-radius: 18px 18px 18px 18px;
+}
+.form input:placeholder-shown{
+    margin-left: 30px;
+}
+.addproducts button{
+    width: 200px;
+    height: 40px;
+    background-color: orange;
+    font-size: 25px;
+    margin-left: 30px;
+    border-radius: 18px 18px 18px 18px;
+}
+.vieworders button{
+    width: 200px;
+    height: 40px;
+    background-color: orange;
+    font-size: 25px;
+    margin-left: 30px;
+    border-radius: 18px 18px 18px 18px;
+}
+.adtopic{
+    margin-top: 50px;
+    padding-top: 50px;
+}

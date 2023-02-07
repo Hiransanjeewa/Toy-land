@@ -1,0 +1,45 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container-3{    
+    border-top: 12px;
+    border-left: 320px;
+    border-right:320px;
+    border-style: solid;
+    text-align: center;
+    border-color: white;
+    background-color: aquamarine;
+    padding-top: 20px;
+    border-bottom: 100px;
+ }
+ .cust01{
+   
+    height:130px;
+    margin-left: 60px;
+ 
+   
+ }
+ table{
+    border-collapse: separate;
+    border-spacing: 0 10px;
+    margin-left:80px;
+    margin-top:5px;
+    margin-right:80px;
+    margin-bottom: 35px;
+    text-align: left;
+ }
+ tr,td{
+    border: none;
+    padding-top: 8px;
+    padding-left: 25px;
+    padding-right:25px;
+    padding-bottom:8px;
+    width:25%;
+
+ }
+ tbody td:nth-child(even){
+    background-color: white;
+ }

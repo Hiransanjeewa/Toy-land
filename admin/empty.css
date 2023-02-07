@@ -1,0 +1,60 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.container{
+   border-top: 70px;
+   border-left: 320px;
+   border-right:320px;
+   margin-bottom: 18px;
+   border-style: solid;
+   text-align: center;
+   border-color: white;
+   background-color: aquamarine;
+
+}
+.intro{
+    color: gray;
+    font-size: 17px;
+    text-align: center;
+    padding-bottom: 10px;
+
+}
+.empty01{
+    width:auto;
+    height: 250px;
+    padding-top: none;
+    background: aquamarine;
+}
+.shop{
+    padding: 15px 20px;
+    background: #ada2ff;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 250px;
+    border-radius: 30px;
+    color: white;
+    border: none;
+    margin-bottom:20px;
+}
+.container-1{
+    
+    border-left: 380px;
+    border-right:380px;
+    margin-bottom: 18px;
+    border-style: solid;
+    text-align: center;
+    border-color: white;
+    background-color: aquamarine;
+    padding-top: 22px;
+    padding-bottom: 22px;
+ 
+ }
+ .empty02{
+    width:300px;
+    height:315px;
+    padding-top: none;
+    margin-left:540px;
+}
