@@ -1,0 +1,66 @@
+.cointainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 8%;
+    width: 550px;
+    
+    height: 500px;
+    margin-left: 500px;
+    border-radius: 20%;
+}
+
+#login{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#login h1{
+    display: flex;
+   justify-content: center;
+
+   margin-bottom: 30px;
+}
+#login input{
+    margin-left: 10px;
+    width: 300px;
+    height: 30px;
+    border-radius: 15px 15px 15px 15px;
+    margin-bottom: 25px;
+    
+}
+#login input::placeholder{
+    font-size: 20px;
+    padding-left: 20px;
+}
+
+#pass{
+    margin-left: 60px;
+}
+body{
+    background-image: url(bodybackground.jpg);
+}
+#login label{
+    font-size: 25px;
+}
+.cointainer #login .log{
+    background-color: rgb(63, 225, 34);
+    width: 8cm;
+    height: 40px;
+    margin-left:70px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.cointainer #login a{
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+}
+.great{
+ color: #FFA500;
+ font-size: 50px;
+ margin-left: 0px;
+}
+.donthave{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 100px;
+}

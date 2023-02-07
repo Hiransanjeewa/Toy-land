@@ -1,0 +1,64 @@
+
+body{
+    background-image: url("bodybackground.jpg");
+}
+.cointainer{
+    display: flex;
+    justify-content: center;
+    margin-top: 0%;
+    width: 550px;
+    height: 600px;
+    margin-left: 500px;
+    border-radius: 20%;
+}
+.cointainer .register  input{
+margin-top: 2px;
+height: 35px;
+width: 450px;
+border-radius: 18px 18px 18px 18px;
+}
+.cointainer .register .name input{
+    width: 223px;
+}
+.register{
+    margin-top: 0px;
+    padding: 0px;
+}
+.register h1{
+     margin-left: 135px;
+     font-size: 45px;
+    
+}
+.submit{
+    background-color: rgb(63, 225, 34);
+    font-size: 20px;
+    cursor: pointer;
+}
+#welcome{
+    margin-top: 50px;
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    margin-left: 50px;
+}
+.cointainer .register  input::placeholder{
+    margin-left: 20px;
+    font-size: 18px;
+    align-items: center;
+    padding-left: 20px;
+}
+.alreadyhave{
+    display: flex;
+    justify-content:first baseline;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: 0px;
+}
+.alreadyhave button{
+    width: 150px;
+    height: 35px;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 18px 18px 18px 18px;
+    background-color: orange;
+    display: flex;
+}
